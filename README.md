@@ -1,4 +1,5 @@
-#🚗 Car Price Prediction Web App using streamlit
+**#Car Price Prediction Using Streamlit**
+🚗 Car Price Prediction Web App using streamlit
 📌 Project Overview
 This project is a Car Price Prediction System developed using Machine Learning and Streamlit. It allows users to predict the estimated resale price of a car based on its key specifications. 
 The goal is to assist both buyers and sellers in making informed, data-driven pricing decisions in the used car market.
